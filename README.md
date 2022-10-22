@@ -1,5 +1,4 @@
 ### Hey, it's Dania! 👋
-I'm a second year Computer Science Major at GWU.  I'm interested in frontend web and android development. I'm currently learning software engineering. 
 <!--
 **dania2512/dania2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
